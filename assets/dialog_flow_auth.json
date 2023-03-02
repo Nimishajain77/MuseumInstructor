@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "museuminstructor-coqt",
+  "private_key_id": "a2a7c5a253a561257c24cf6e9d80e13562740519",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrKKjFDB81de6i\n3O6tyFbphxtOQ1/D4wM6PhVMHu8kmf/hSaXPYiXDTMx+E9U94bKq/u1ng0ep5EGA\nICuhLqoHPJagZC43SPg/Xbu+LheiZ9GFkIsBUYWyxwozPMi0bGxL+Q/w3Ee8gmkH\n6RN1zk7OUKLvpsGGqOtdtIZb4S4dH8wKYn10fdl7U5JAo47s7M9K1vGQn9SxIodB\n49fy5Dufaise5RQRnLLm60bDSv42viLk12qfAzrwHTavoRCdMm/RqFhGhPVH5Mkz\nNw19NO9vjRS5GC6ch1R4CsIBk/Auu9xDT5HmLwceruv6Ly0t2EVdOmtBo/PI0ReK\nmyeNKM6/AgMBAAECggEAKu/FurzKPXaKuVd0FqtZxjaK7oyvQuw5fIxjeleORV/O\nlX0Mt+QWthIXgI9IIMB0Ojo+YwfHXAKzPcmUOFiE9dDIto67G0pWYEsK1HAqpKan\npHp4rIl/YTRWRjk63iwO1NYznggchNkwMPhS1ew9z7rhzP3HsZjBhp3JUNZB47MT\nwkLY3UEpzRJ+LmxAf4fgoBVJfjKnvHNE7UfXof0QmVAIFQDJ0zlDDpuD0VSdIo8y\nGy+mUWNpbzmFvHByw4rLa+HUhlYnne99Cv3Xhnp3yJmXUVoKA8rXsFGSf/5XVPK4\noORHlzaBV6BXn7aKox+flu5xiM4aE6+AWTFD0k+B9QKBgQDXpCegtF4qrxBcnUBS\nSZvOhpoZ+Ofy8sjsFzXa2y3zFPlkec52D4MTVMw4oR/daO0NAuSbqVbZg1bRdXzr\nMCDTb9CJCsViYv9YeWe94LUwMLlLb8kRL9O/0rGbTMg95YtADQ6I4zJoznhAh2Il\nO+LEHjH2TefzHJ6wfRPuzN1edQKBgQDLMUE0ph6Hl+47pGyWsq3wGRxEDAiavptb\nnJZaThl6nrhZ4PhFfDN7nmHxYirnJAenDERs5Bj6Q00uZLPVw28h9zTxYu5D3E6Z\n+XmRPUfVjtuir51e35i4bxv9bPm8VygRck5jS1BiJM5AoOGwTqqegPwZ/wl6v0c+\nhIm0gL454wKBgQDBVEbC6XJTSkic/86e96dcbYjTKDirs8c3A0ghQsfbWz6MOjhD\n2HxnZGsDilELK/r641EZzaQztnCrsW2hXbDQXzrS4nk8UA0lwRKlRUSsQ8KcQ0g8\nxGhPXhIlbZ1JAPbrIcmaKDcVh6aAE+CGCT6xHXElpYsChvIuwLSSL9F30QKBgDmd\nesbJ/8gk7Xld8yh7+9Qj2p705o+yUm0UppFuqczaKp3Zq6xQPmzkCROf6VhnIABe\n+xwBRY/Y+46XIWMQqndwGEQF8FevpV4FnlHvlWnZuy+TKkVXk39gigg/GUUtVYA0\n8EM5fM6HbzBmLfiHJdwR6OoaJf73M+VnQYC8LLRPAoGASkaNdKa0cw7MnFc6bgCe\nrwoXkYyZEQCFA3ZUybB9XIxAL2fFOMmN3pILC3PUOOX0FujHLgrk5m8B1WclEuqI\nVQaC2iH0flq6YlW2O4B4JocBpqhfj/z3Ild4M+pbEqrGdSdTXW+gzHkwiN6dtriS\nUeX9lPBRKWZscP+enbZ3Bd8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "museuminstructor@museuminstructor-coqt.iam.gserviceaccount.com",
+  "client_id": "106318004248570555984",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/museuminstructor%40museuminstructor-coqt.iam.gserviceaccount.com"
+}
